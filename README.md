@@ -22,5 +22,5 @@ This repository showcases my QA skills with **manual testing** and **Playwright 
 Demo web applications used only for learning and portfolio purposes.
 
 ## Contact
-LinkedIn: <add-your-link>
-Email: <add-your-email>
+LinkedIn: <https://www.linkedin.com/in/manas-ranjan-p-766242224/>
+Email: <mranjanpt@gmail.com>
